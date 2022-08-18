@@ -1,11 +1,11 @@
-# Frontend Mentor - 3-column preview card component
+# Frontend Mentor - social proof section solution
 
 ![Design preview for the Social proof section coding challenge](./design/desktop-preview.jpg)
 
 ### Links
 
-- Solution URL: [https://github.com/ASH2001prince/3-column-preview-card-component-solution.git]
-- Live Site URL: [https://ash2001prince.github.io/3-column-preview-card-component-solution/]
+- Solution URL: [https://github.com/ASH2001prince/social-proof-section-solution.git]
+- Live Site URL: [https://ash2001prince.github.io/social-proof-section-solution/]
 
 ### Built with
 
