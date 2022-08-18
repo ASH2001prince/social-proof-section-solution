@@ -133,6 +133,12 @@ span{
     letter-spacing: 0.3px;
     line-height: 17px;
 }
+.attribution {
+    display: flex;
+    justify-content: center;
+    margin-top: 10rem;
+    gap: 0.2rem;
+}
 /* footer{
     position: relative;
     display: flex;
@@ -187,6 +193,7 @@ span{
     body{
         background-position: left 1rem top 0rem, right 0rem bottom 0rem;
         display: flex;
+        flex-direction: column;
     }
     .container{
         display: flex;
